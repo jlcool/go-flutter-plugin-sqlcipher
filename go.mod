@@ -1,9 +1,8 @@
-module github.com/davidmartos96/go-flutter-plugin-sqlcipher
+module github.com/jlcool/go-flutter-plugin-sqlcipher
 
 go 1.12
 
 require (
-	github.com/davidmartos96/go-sqlcipher v0.0.0-20190926183620-c645d34efaf2
 	github.com/go-flutter-desktop/go-flutter v0.30.0
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
